@@ -20,7 +20,7 @@
             ]
           },
           {
-            "type": "debug-breakpoint"     
+            "type": "breakpoint"     
           }
 
      ]
