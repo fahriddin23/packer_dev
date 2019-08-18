@@ -24,7 +24,7 @@
           },
           {
             "type": "file",
-            "source": "app.tar.gz",
+            "source": "test_file",
             "destination": "/tmp/test_file"
           }
 
